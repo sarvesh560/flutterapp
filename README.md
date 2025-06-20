@@ -132,3 +132,17 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 By,
 
 Sarvesh M
+## Screenshots
+![Image](https://github.com/user-attachments/assets/505c4822-7b5e-43c3-9f0a-8ba3a171843f)
+
+![Image](https://github.com/user-attachments/assets/01f4bcb5-167c-44e9-8f4b-34ea868a58b4)
+
+![Image](https://github.com/user-attachments/assets/661877ba-c2af-44b2-b9a0-b081478e0856)
+
+![Image](https://github.com/user-attachments/assets/13886a3e-8bfc-4b27-a0ae-93fbedb908ec)
+
+![Image](https://github.com/user-attachments/assets/8b64cdac-93a6-4e86-9cb5-5a8e47f08997)
+
+![Image](https://github.com/user-attachments/assets/64e1676c-67ab-48d7-a741-d8713376397b)
+
+![Image](https://github.com/user-attachments/assets/c7609771-f5d3-4d5c-9fc2-3c9577873a2f)
