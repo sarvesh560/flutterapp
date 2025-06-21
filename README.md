@@ -105,22 +105,6 @@ A simple Flutter app to track daily mood, view mood history, and get insights �
 
 ---
 
-## 🌟 Future Improvements
-
-* Add Dark Mode
-* Add Notifications (daily mood reminder)
-* Improve charting with better insights
-* Enable edit/delete mood entries
-* Support exporting data (CSV/JSON)
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgements
 
 * Flutter
