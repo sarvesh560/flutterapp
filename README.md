@@ -82,8 +82,7 @@ A simple Flutter app to track daily mood, view mood history, and get insights â€
     |
     --> uid (document)
           |
-          --> moods (subcollection)
-                  --> YYYY-MM-DD (document)
+          --> moods (subcollection) --> YYYY-MM-DD (document)
   ```
 
 * Screens:
